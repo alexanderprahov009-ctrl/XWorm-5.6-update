@@ -1,7 +1,7 @@
 # 🐛 XWorm RAT - Advanced Remote Access Tool
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-5.6brightgreen?style=for-the-badge" alt="Version">
+  ![Version](https://img.shields.io/badge/Version-5.6-blue?style=for-the-badge)
   <img src="https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge" alt="Platform">
   <img src="https://img.shields.io/badge/language-C%23-purple?style=for-the-badge" alt="Language">
   <img src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge" alt="License">
